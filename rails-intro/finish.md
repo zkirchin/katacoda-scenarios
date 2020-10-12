@@ -1,0 +1,1 @@
+Congratulations on creating your first Ruby on Rails application!
