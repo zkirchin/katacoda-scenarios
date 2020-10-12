@@ -1,0 +1,1 @@
+Today, I'll show **you** how to make a wonderful *CRUD* application using the fantastic Ruby on Rails framework. 
